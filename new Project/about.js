@@ -2,18 +2,18 @@ let wrapper = document.querySelector('.box');
 let users =[
     {
         id: 1,
-        img:"/img/person.svg",
+        img:"./img/person.svg",
         text:"The quality of our talent network",
 
     },
     {
         id: 2,
-        img:"/img/sozlanmalar.svg",
+        img:"./img/sozlanmalar.svg",
         text:"Usage & implementation of our software",
     },
     {
         id: 3,
-        img:"/img/innovation.svg",
+        img:"./img/innovation.svg",
         text:"How we help drive innovation",
     }
 ]
